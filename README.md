@@ -53,9 +53,10 @@ Yug Beniwal
 Daksh 
 Yash Sharma
 
-🎓 Guided By
-Dr. Roshi Saxena
+🎓 Guided By:
+[Dr. Roshi Saxena]
 Data Science & Machine Learning
+
 🤝 Acknowledgements
 
 Kaggle – Student behavior datasets and community resources
