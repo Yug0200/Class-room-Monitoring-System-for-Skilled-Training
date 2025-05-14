@@ -1,6 +1,6 @@
 🎓 Classroom Behavior Recognition using CNN & Streamlit
 
-An automated, intelligent system for real-time recognition of student behavior in classrooms using Convolutional Neural Networks (CNNs) and deployed through a Streamlit web app. The system allows users (teachers, administrators) to upload images or video frames from the classroom and instantly classifies student behavior (e.g., attentive, distracted, sleeping), enabling timely interventions to improve engagement and discipline.
+An automated, intelligent system for real-time recognition of student behavior in classrooms using Convolutional Neural Networks (CNNs) and deployed through a Streamlit web app. The system allows users (teachers, administrators) to upload images of students and  instantly classifies student behavior (e.g., attentive, distracted, sleeping), enabling timely interventions to improve engagement and discipline.
 
 🚀 Features
 
@@ -46,6 +46,16 @@ streamlit run app.py
 5. Upload and Predict
 Upload a classroom image or video frame
 Get real-time prediction of student behavior along with the confidence level
+
+👥 Team Members
+
+Yug Beniwal
+Daksh 
+Yash Sharma
+🎓 Guided By
+
+Dr. Roshi Saxena
+Data Science & Machine Learning
 🤝 Acknowledgements
 
 Kaggle – Student behavior datasets and community resources
