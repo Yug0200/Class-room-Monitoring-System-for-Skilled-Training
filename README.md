@@ -52,8 +52,8 @@ Get real-time prediction of student behavior along with the confidence level
 Yug Beniwal
 Daksh 
 Yash Sharma
-🎓 Guided By
 
+🎓 Guided By
 Dr. Roshi Saxena
 Data Science & Machine Learning
 🤝 Acknowledgements
